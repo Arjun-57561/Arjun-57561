@@ -126,10 +126,10 @@ Real-time gas leakage detection integrating **AI and IoT** with buzzer alerts an
 
 ## 💼 Professional Experience
 
-**AI/ML Engineering Intern** | *Viswam AI* | June 2025 - Present[attached_file:1]  
+**AI/ML Engineering Intern** | *Viswam AI* | June 2025 - Present  
 Developing end-to-end AI/ML solutions and deploying production-ready models for real-world applications.
 
-**AI Club Member** | *Symbiosis Institute of Technology* | Oct 2024 - Present[attached_file:1]  
+**AI Club Member** | *Symbiosis Institute of Technology* | Oct 2024 - Present
 Organizing technical events and contributing to AI/ML community building initiatives.
 
 ---
@@ -137,7 +137,7 @@ Organizing technical events and contributing to AI/ML community building initiat
 ## 🎓 Education
 
 **Bachelor of Technology in AI & Machine Learning**  
-*Symbiosis Institute of Technology, Pune* | Aug 2023 - Present | **CGPA: 7.60/10**[attached_file:1]
+*Symbiosis Institute of Technology, Pune* | Aug 2023 - Present | **CGPA: 7.60**
 
 **Key Coursework:** Machine Learning, Deep Learning, Data Structures & Algorithms, Computer Vision, NLP, Data Preprocessing & EDA[attached_file:2]
 
