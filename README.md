@@ -17,7 +17,7 @@
 
 > *"My curiosity made Thy self called a Jack of all trades"*  
 
-Pre-final year undergraduate at **Symbiosis Institute of Technology, Pune**, specializing in **Artificial Intelligence and Machine Learning** (CGPA: 7.60/10).
+Pre-final year undergraduate at **Symbiosis Institute of Technology, Pune**, specializing in **Artificial Intelligence and Machine Learning** (CGPA: 7.60).
 
 - 🤖 Passionate about **AI, Machine Learning, Deep Learning, and Computer Vision**  
 - 🧩 Building production-grade intelligent applications using **Python, TensorFlow, PyTorch, and Streamlit**  
