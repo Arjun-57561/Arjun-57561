@@ -1,5 +1,3 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="150" style="border-radius: 50%;" />
 
 # Bontha Mallikarjun Reddy
 
