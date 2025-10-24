@@ -1,4 +1,5 @@
-
+<div align="center">
+  
 # Bontha Mallikarjun Reddy
 
 *B.Tech – Artificial Intelligence & Machine Learning @ Symbiosis Institute of Technology, Pune*
@@ -153,4 +154,3 @@ CGPA: **7.60**
 ### *"Imagine it imagination will become your strength."*
 
 </div>
-
