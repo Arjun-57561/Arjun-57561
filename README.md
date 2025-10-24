@@ -17,26 +17,26 @@
 
 > *"Turning ideas into intelligent systems — one model at a time."*  
 
-Pre-final year undergraduate at **Symbiosis Institute of Technology, Pune**, specializing in **Artificial Intelligence and Machine Learning** (CGPA: 7.60/10)[attached_file:1][attached_file:2].  
+Pre-final year undergraduate at **Symbiosis Institute of Technology, Pune**, specializing in **Artificial Intelligence and Machine Learning** (CGPA: 7.60/10).
 
 - 🤖 Passionate about **AI, Machine Learning, Deep Learning, and Computer Vision**  
 - 🧩 Building production-grade intelligent applications using **Python, TensorFlow, PyTorch, and Streamlit**  
-- 🏅 **Published Patent Holder** in applied AI innovation (Patent No. 202421016116 A, March 2024)[attached_file:2]  
-- 📄 **Research Author** – "Improving Clinical Preparedness: Early Hypoglycemia Prediction Using Hybrid ML" published in *Public Health Nursing (Wiley)*[attached_file:2]  
+- 🏅 **Published Patent Holder** in applied AI innovation (Patent No. 202421016116 A, March 2024)
+- 📄 **Research Author** – "Improving Clinical Preparedness: Early Hypoglycemia Prediction Using Hybrid ML" published in *Public Health Nursing (Wiley)  
 - 💡 Enthusiastic about research, innovation, and deploying ML models at scale  
-- 💼 Currently **AI/ML Engineering Intern** at **Viswam AI** (June 2025 – Present)[attached_file:1]  
+- 💼 Currently **AI/ML Engineering Intern** at **Viswam AI** (June 2025 – Present) 
 
 ---
 
 ## 🏆 Achievements  
 
-- 📜 **Patent Published** – Co-inventor: AI-Powered Mobile Application (2024, Patent No. 202421016116 A)[attached_file:2]  
-- 📚 **Research Publication** – Early Hypoglycemia Prediction for Community Health Nurses (Wiley, 2024)[attached_file:2]  
-- 🥈 **New India Vibrant Hackathon Finalist** – Gandhinagar, Gujarat (Nov 2023)[attached_file:2]  
-- 🚀 **ARAMBH National Entrepreneurship Competition Participant** – Sri Balaji University (Jan 2024)[attached_file:2]  
-- 🎤 **AI Summit 2025 Speaker** – Presented Deepfake Detection System research[attached_file:1]  
-- ✅ **Postman API Fundamentals Student Expert** (2025)[attached_file:1]  
-- 🔧 **IoT with AI Integration Certification** (2024)[attached_file:1]  
+- 📜 **Patent Published** – Co-inventor: AI-Powered Mobile Application (2024, Patent No. 202421016116 A)  
+- 📚 **Research Publication** – Early Hypoglycemia Prediction for Community Health Nurses (Wiley, 2024)  
+- 🥈 **New India Vibrant Hackathon Finalist** – Gandhinagar, Gujarat (Nov 2023)  
+- 🚀 **ARAMBH National Entrepreneurship Competition Participant** – Sri Balaji University (Jan 2024)  
+- 🎤 **AI Summit 2025 Speaker** – Presented Deepfake Detection System research  
+- ✅ **Postman API Fundamentals Student Expert** (2025)  
+- 🔧 **IoT with AI Integration Certification** (2024)  
 
 ---
 
@@ -78,23 +78,23 @@ Pre-final year undergraduate at **Symbiosis Institute of Technology, Pune**, spe
 ## 🧩 Featured Projects  
 
 ### 🕵️ [Deepfake Detection System](https://github.com/Arjun-57561)
-Real-time deepfake detection using **CNN + Swin Transformer** hybrid models trained on FaceForensics++ dataset with **68% accuracy**[attached_file:1]. Deployed via Streamlit with real-time video processing capabilities[attached_file:1].  
+Real-time deepfake detection using **CNN + Swin Transformer** hybrid models trained on FaceForensics++ dataset with **68% accuracy**[attached_file:1]. Deployed via Streamlit with real-time video processing capabilities.  
 **Tech Stack:** Python, TensorFlow, OpenCV, Swin Transformer, Streamlit
 
 ### 🏥 [Med AI Care - Multimodal Medical Platform](https://github.com/Arjun-57561)
-Trimodal AI diagnostic system integrating **voice recognition, computer vision, and text analysis** across **11+ languages**[attached_file:1]. Built multilingual speech-to-text pipeline with medical terminology optimization[attached_file:1].  
+Trimodal AI diagnostic system integrating **voice recognition, computer vision, and text analysis** across **11+ languages**. Built multilingual speech-to-text pipeline with medical terminology optimization.  
 **Tech Stack:** Python, TensorFlow, PyTorch, Transformers, Flask, Streamlit
 
 ### 🤖 [AI-Powered Resume Shortlisting Platform](https://github.com/Arjun-57561)
-Intelligent recruitment automation using **LLMs, FAISS, and Hugging Face Transformers** for semantic resume-job matching[attached_file:1]. Built React + Flask dashboard with dynamic candidate management[attached_file:1].  
+Intelligent recruitment automation using **LLMs, FAISS, and Hugging Face Transformers** for semantic resume-job matching. Built React + Flask dashboard with dynamic candidate management.  
 **Tech Stack:** Python, LLMs, FAISS, Hugging Face, React, Flask
 
 ### 📸 [Vision-Based Attendance System](https://github.com/Arjun-57561)
-Face recognition attendance using **OpenCV & Flask** with real-time detection and automated record management[attached_file:2].  
+Face recognition attendance using **OpenCV & Flask** with real-time detection and automated record management.  
 **Tech Stack:** Python, OpenCV, Flask, Face Recognition
 
 ### 🌿 [IoT-Based Gas Leakage Detection System](https://github.com/Arjun-57561)
-Real-time gas leakage detection integrating **AI and IoT** with buzzer alerts and cloud monitoring via AWS[attached_file:2].  
+Real-time gas leakage detection integrating **AI and IoT** with buzzer alerts and cloud monitoring via AWS.  
 **Tech Stack:** Python, IoT, ESP32, AWS, ThingSpeak
 
 > *Explore all repositories [here →](https://github.com/Arjun-57561?tab=repositories)*  
@@ -163,7 +163,7 @@ Organizing technical events and contributing to AI/ML community building initiat
 
 <div align="center">
   
-### ⭐ *"The best way to predict the future is to create it."*
+### ⭐ My motto -> *"Imagine it imagination will become your strength"*
   
 ![Visitor Count](https://profile-counter.glitch.me/Arjun-57561/count.svg)
 
