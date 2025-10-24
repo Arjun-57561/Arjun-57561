@@ -15,7 +15,7 @@
 
 ## 🚀 About Me  
 
-> *"Turning ideas into intelligent systems — one model at a time."*  
+> *"My curiosity made Thy self called a Jack of all trades"*  
 
 Pre-final year undergraduate at **Symbiosis Institute of Technology, Pune**, specializing in **Artificial Intelligence and Machine Learning** (CGPA: 7.60/10).
 
@@ -165,6 +165,6 @@ Organizing technical events and contributing to AI/ML community building initiat
   
 ### ⭐ My motto -> *"Imagine it imagination will become your strength"*
   
-![Visitor Count](https://profile-counter.glitch.me/Arjun-57561/count.svg)
+
 
 </div>
