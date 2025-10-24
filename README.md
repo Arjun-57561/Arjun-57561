@@ -1,65 +1,37 @@
-# Hi there, I'm Bontha Mallikarjun Reddy 👋
+<img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="120" align="right" />
+
+# Hi, I'm Bontha Mallikarjun Reddy 👋
+![Visitors](https://komarev.com/ghpvc/?username=Arjun-57561&color=blue)
 
 ## 🚀 About Me
+Patent holder | AI/ML Developer | B.Tech @ SIT Pune
 
-I'm a pre-final year B.Tech student specializing in Artificial Intelligence & Machine Learning at Symbiosis Institute of Technology, Pune.
-Patent holder, research author, AI enthusiast, and developer passionate about building real-world solutions.
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Arjun-57561)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 📫 Email: mallikarjun57561@gmail.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/arjun57561)
-- 💻 [GitHub](https://github.com/Arjun-57561)
+## 📦 My Projects
+- **Deepfake Detection System** ([view repo](#))
+- **Med AI Care Platform** ([view repo](#))
+- ... (add links!)
 
----
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arjun-57561&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-57561&layout=compact&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Arjun-57561&theme=radical)
 
-## 🧑‍💻 Skills
+## 📝 Latest Blog Posts
+- [Deepfake Detection with Transformers](#)
+- [Medical AI Project Demo](#)
+- *(link to your Medium or LinkedIn articles)*
 
-- **Languages**: Python, Java, C, SQL
-- **AI/ML Frameworks**: TensorFlow, PyTorch
-- **Deployment/UI**: Streamlit, Flask, Vercel, Streamlit Cloud
-- **Databases**: MySQL, MongoDB
-- **Data Visualization**: Power BI, Matplotlib, Seaborn, Plotly
-- **Fundamentals**: DSA, Git, Linux CLI
-- **IoT**: Arduino, Raspberry Pi
-- **Soft Skills**: Problem Solving, Collaboration, Design Thinking
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arjun57561-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/arjun57561)
+[![Mail](https://img.shields.io/badge/Gmail-mallikarjun57561@gmail.com-red?logo=gmail&style=flat)](mailto:mallikarjun57561@gmail.com)
 
----
+## 🛠️ Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+...
 
-## 📚 Education
-
-- **B.Tech in AI & ML**, Symbiosis Institute of Technology, Pune (2023–Present) - CGPA: 7.6/10
-- **Narayana Junior College**, Hyderabad (2021–2023) - Percentage: 94.2%
-- **Narayana High School**, Hyderabad (2019–2021) - GPA: 10
-
----
-
-## 🏆 Achievements
-
-- Patent holder (AI-powered mobile app, 2023)
-- Published research author (Clinical Preparedness, 2024)
-- PostMan API Fundamentals Student Expert (2025)
-- IoT & AI Integration Certification (2024)
-
----
-
-## 👨‍💻 Projects
-
-- **Med AI Care**: Multimodal Medical Diagnostic Platform—integrating voice, vision & text.
-- **AI-powered Resume Shortlisting Platform**: LLMs and FAISS for smart recruitment.
-- **Deepfake Detection System**: CNN & Swin Transformer for facial forgery.
-- **Snake Game (Java Swing + MySQL)**
-
----
-
-## 🌱 Clubs & Experience
-
-- **AI Club Member**, Symbiosis Institute (Oct 2024 – Present)
-- **AIML Intern**, Viswam AI (June 2025 – Present)
-
----
-
-![Mallikarjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arjun-57561&show_icons=true&theme=radical)
-
----
-
-Feel free to connect for collaborations!
-
+<!-- Optionally add a personal hero GIF/banner/image for more interactivity! -->
