@@ -74,11 +74,6 @@ Multilingual diagnostic system integrating speech, vision, and text AI across 11
 Semantic candidate-job matching using LLMs, FAISS, and Hugging Face models.
 **Tech Stack:** Python, React, Flask, FAISS
 
-### [Vision-Based Attendance System](https://github.com/Arjun-57561)
-
-Face recognition attendance tracker with automated database updates.
-**Tech Stack:** Python, OpenCV, Flask
-
 ### [IoT-Based Gas Leakage Detection](https://github.com/Arjun-57561)
 
 AI-integrated IoT monitoring system with real-time alerts via AWS.
