@@ -406,18 +406,22 @@ Built with deep learning to transform requirements into optimized AWS architectu
 ```mermaid
 gantt
     title Career & Academic Timeline
-    dateFormat YYYY-MM
-    section 🎓 Education
-    B.Tech AI & ML @ SIT Pune (CGPA: 7.60)    :2023-06, 2027-05
-    section 💼 Experience
-    AI/ML Intern @ Viswam AI                   :active, 2025-06, 2025-07
-    AI Club Member @ SIT                       :2024-10, 2026-02
-    Core Member @ Antariksh Club               :2025-01, 2026-02
-    section 🏆 Milestones
-    Patent Published (202421016116 A)          :milestone, 2024-03, 0d
-    Research Paper (Wiley)                     :milestone, 2024-11, 0d
-    AI Summit 2025 Speaker                     :milestone, 2025-01, 0d
-    Hackathon Finalist                         :milestone, 2023-11, 0d
+    dateFormat YYYY-MM-DD
+
+    section Education
+    B.Tech AI & ML @ SIT Pune [CGPA 7.60] : 2023-06-01, 2027-05-31
+
+    section Experience
+    AI/ML Intern @ Viswam AI        : active, 2025-06-01, 2025-07-31
+    AI Club Member @ SIT            : 2024-10-01, 2026-02-28
+    Core Member @ Antariksh Club    : 2025-01-01, 2026-02-28
+
+    section Milestones
+    Patent Published (202421016116 A) : milestone, 2024-03-01, 0d
+    Research Paper (Wiley)            : milestone, 2024-11-01, 0d
+    AI Summit Speaker                 : milestone, 2025-01-01, 0d
+    Hackathon Finalist                : milestone, 2023-11-01, 0d
+
 ```
 
 <br/>
