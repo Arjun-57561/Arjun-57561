@@ -617,7 +617,7 @@ gantt
 
 ### 💭 Philosophy
 
-**"Innovation is not about having ideas, it's about making ideas happen."**
+**"Imagine it Imagination will become your strength"**
 
 <br/>
 
