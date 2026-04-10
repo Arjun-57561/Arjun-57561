@@ -92,7 +92,7 @@ Published in **Wiley — Public Health Nursing Journal, 2024** · [ORCID](https:
 
 ## 💼 Experience & Leadership
 
-**AI/ML Engineering Intern @ Viswam AI** *(Jun 2025 – Present, Remote)*
+**AI/ML Engineering Intern @ Viswam AI** *(Jun 2025 – Jul 2025, Remote)*
 - Built LLM-powered prototypes and experimentation pipelines
 - Generated embeddings, computed metrics, and optimized model architectures
 - Handled dataset prep, validation workflows, and deployment of AI systems
